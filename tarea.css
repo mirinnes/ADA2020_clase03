@@ -1,0 +1,140 @@
+body {
+    background-color: #CC0014;   
+}
+
+p {
+    color: black;
+    font-size: 39px;
+
+    display: inline-block;
+    margin-left: 80px;
+    margin-right: 40px;
+    text-align: left; 
+}
+
+h1 {
+
+    font-size: 1cm;
+    color: #7A3B6D;
+    text-align: justify;
+}
+
+h2{
+    background-color: #FADAF3;
+    color: #7A3B6D;
+    margin: 0.2cm;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+    text-align: justify;
+    font-weight: bolder;
+    display: block;
+}
+
+hr{
+    background-color: #FA78C4;
+    width: 800px;
+    height: 5px;
+    border: 0px;
+}
+
+ul {
+    color: black;
+    display: inline-block;
+    font-size: 45px;
+    margin: 1cm;
+
+}
+
+li {
+
+    font-size: 40px;
+    text-align: justify;
+    font-weight: lighter;
+    display: list-item;
+
+}
+
+a {
+    color:  #FADAF3;
+    background-color: #7A3B6D;
+    width: 250px;
+    font-size: 39px;
+    font-family: 'Gaegu';
+    display: inline;
+    margin-left: 7cm;
+    margin-right: 7cm;
+    text-align: center; 
+
+}
+
+span {
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+
+
+.presentacion {
+    background-color: #AD1F72;
+    color: #FA78C4;
+    display: block;
+    width: 100%;
+    /*height: 22cm;*/
+    /*border-bottom: 2px solid black;*/
+    text-align: center;
+    margin-top: 3cm;
+    padding-bottom: 20px;
+    font-family: 'Sacramento', cursive;
+}
+
+.titulo-1 {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px; 
+    font-weight: lighter; 
+    color: #FAC3E3;
+    margin: 0.2cm;
+
+}
+
+.titulo {
+    text-align: center;
+    display: block;
+    width: 100%;
+    background-color: #FAC3E3;
+    font-family: 'Gaegu';
+    font-size: 80px; 
+    font-weight: lighter; 
+}
+#receta-1{
+    display: block;
+    background-color: #F4FCD7;
+    width: 100%;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    
+}
+#receta-1 i {
+    /*background-color: #BB92B2;*/
+    color:rgb(79, 189, 46);
+    font-size: 35px;
+}
+
+#receta-2 {
+    display: block;
+    background-color: #FF8A93;
+    width: 100%;
+    font-family: 'Handlee', cursive;
+    text-align: center;  
+}
+
+#receta-2 i {
+    /*background-color: #BB92B2;*/
+    color:#995A43;
+    font-size: 35px;
+}
+
+
+
+
+
